@@ -1,1 +1,1 @@
-https://www.figma.com/make/0cpvgbABogyzzTe7EdbxK4/HealthSync-mobile-interface?p=f
+https://fern-fluid-34449610.figma.site/
