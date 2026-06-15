@@ -28,7 +28,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF02</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
@@ -41,7 +41,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             </ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> Alta </td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF09</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
@@ -55,7 +55,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
                 </ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Médio</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF04</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
@@ -69,7 +69,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
                 </ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Médio</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
@@ -83,7 +83,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
                 </ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF11</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
             <span id="ustory-01"></span>
